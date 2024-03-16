@@ -4,7 +4,8 @@ Designed a sales dashboard by using Excel for the Vrinda store. To understand an
 ```markdown
 
 ## Overview
-This repository contains a sales dashboard created using Microsoft Excel for the Vrinda store. The dashboard is designed to analyze annual sales data for the year 2022. Its purpose is to help the Vrinda store understand its customers better and strategize to increase sales in 2023.
+This repository contains a sales dashboard created using Microsoft Excel for the Vrinda store. The dashboard is designed to analyze annual sales data for the year 2022.
+Its purpose is to help the Vrinda store understand its customers better and strategize to increase sales in 2023.
 
 ## Objective
 The main objective of this project is to create an annual sales report for 2022 to aid the Vrinda store in understanding their customers and growing sales in the subsequent year, 2023.
@@ -26,8 +27,13 @@ The main objective of this project is to create an annual sales report for 2022 
 - Amazon, Flipkart, and Myntra channels are the maximum contributing (~80%)
 
 ## Final Conclusion to Improve Vrinda Store Sales:
-To improve sales, the Vrinda store should target women customers aged between 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh. They can achieve this by showcasing ads, offers, and coupons available on Amazon, Flipkart, and Myntra channels.
+- To improve sales, the Vrinda store should target women customers aged between 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh.
+They can achieve this by showcasing ads, offers, and coupons available on Amazon, Flipkart, and Myntra channels.
 
 Thank you for your interest in the Sales Dashboard in Excel.
+
+## Guided by :
+- Rishabh Mishra https://youtu.be/gTK5rNhWJyA?si=KqxfSyxPPa8EiqfF
+
 ```
-This markdown provides a structured overview of the Sales Dashboard in Excel project, including objectives, sample questions, insights, conclusions.
+This markdown provides a structured overview of the Sales Dashboard in Excel project, including objectives, sample questions, insights and conclusions.
