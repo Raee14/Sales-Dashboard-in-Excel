@@ -33,7 +33,7 @@ They can achieve this by showcasing ads, offers, and coupons available on Amazon
 Thank you for your interest in the Sales Dashboard in Excel.
 
 ## Guided by:
-- Rishabh Mishra [Rishabh Mishra Video](https://youtu.be/gTK5rNhWJyA?si=KqxfSyxPPa8EiqfF)
+- Rishabh Mishra (https://youtu.be/gTK5rNhWJyA?si=KqxfSyxPPa8EiqfF)           
 
 ```
 This markdown provides a structured overview of the Sales Dashboard in Excel project, including objectives, sample questions, insights and conclusions.
