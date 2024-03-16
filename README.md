@@ -10,14 +10,14 @@ This repository contains a sales dashboard created using Microsoft Excel for the
 The main objective of this project is to create an annual sales report for 2022 to aid the Vrinda store in understanding their customers and growing sales in the subsequent year, 2023.
 
 ## Sample Questions
-- **Compare the sales and orders using a single chart**
-- **Which month got the highest sales and orders?**
-- **Who purchased more - men or women in 2022?**
-- **What are the different order statuses in 2022?**
-- **List the top 10 states contributing to sales.**
-- **What is the relation between age and gender based on number?**
-- **Which channel is contributing to maximum sales?**
-- **What is the highest-selling category?**
+- Compare the sales and orders using a single chart
+- Which month got the highest sales and orders?
+- Who purchased more - men or women in 2022?**
+- What are the different order statuses in 2022?
+- List the top 10 states contributing to sales.
+- What is the relation between age and gender based on number?
+- Which channel is contributing to maximum sales?
+- What is the highest-selling category?
 
 ## Sample Insights
 - Women are more likely to buy compared to men (~65%)
