@@ -1,8 +1,6 @@
 # Sales-Dashboard-in-Excel
 Designed a sales dashboard by using Excel for the Vrinda store. To understand annual sales in 2022. So that, They can understand their customers and grow more sales in 2023.
 
-```markdown
-
 ## Overview
 This repository contains a sales dashboard created using Microsoft Excel for the Vrinda store. The dashboard is designed to analyze annual sales data for the year 2022.
 Its purpose is to help the Vrinda store understand its customers better and strategize to increase sales in 2023.
@@ -33,7 +31,7 @@ They can achieve this by showcasing ads, offers, and coupons available on Amazon
 Thank you for your interest in the Sales Dashboard in Excel.
 
 ## Guided by:
-- Rishabh Mishra (https://youtu.be/gTK5rNhWJyA?si=KqxfSyxPPa8EiqfF)           
+- Guided by: [Rishabh Mishra](https://youtu.be/gTK5rNhWJyA?si=rVyNINc1OXQfLKXv)      
 
 ```
 This markdown provides a structured overview of the Sales Dashboard in Excel project, including objectives, sample questions, insights and conclusions.
