@@ -23,6 +23,9 @@ The main objective of this project is to create an annual sales report for 2022 
 - Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states (~35%)
 - The adult age group (30-49 yrs) is the maximum contributing (~50%)
 - Amazon, Flipkart, and Myntra channels are the maximum contributing (~80%)
+  
+## Report View
+![Sales Dashboard in Excel](https://github.com/Raee14/Sales-Dashboard-in-Excel/assets/135542056/7bad1c5b-18ec-43cc-bf0e-822f79e115d9)
 
 ## Final Conclusion to Improve Vrinda Store Sales:
 - To improve sales, the Vrinda store should target women customers aged between 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh.
